@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Qual dos seguintes esportes não faz parte do triatlo?",
+            "correct_answer": "Passeios a cavalo",
+            "incorrect_answers": [
+                "Ciclismo",
+                "Natação",
+                "Corrida"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Qual o maior campeão do campeonato Turco?",
+            "correct_answer": "Galatasaray",
+            "incorrect_answers": [
+                "Fenerbahçe",
+                "Beşiktaş",
+                "Başakşehir"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Quem venceu o Campeonato Mundial de Pilotos de Fórmula 1 de 2016?",
+            "correct_answer": "Nico Rosberg",
+            "incorrect_answers": [
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Kimi Raikkonen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Em que ano o New Orleans Saints ganhou o Super Bowl?",
+            "correct_answer": "2010",
+            "incorrect_answers": [
+                "2008",
+                "2009",
+                "2011"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Qual boxeador foi banido por morder a orelha de Evander Holyfield em 1997?",
+            "correct_answer": "Mike Tyson",
+            "incorrect_answers": [
+                "Roy Jones Jr.",
+                "Evander Holyfield",
+                "Lennox Lewis"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Quem é frequentemente chamado de o Maestro no circuito de tênis masculino?",
+            "correct_answer": "Roger Federer",
+            "incorrect_answers": [
+                "Bill Tilden",
+                "Boris Becker",
+                "Pete Sampras"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Em que ano Jenson Button ganhou seu primeiro mundial da F1?",
+            "correct_answer": "2009",
+            "incorrect_answers": [
+                "2010",
+                "2007",
+                "2006"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Quem venceu o Campeonato Mundial de Pilotos de Fórmula 1 de 2017?",
+            "correct_answer": "Lewis Hamilton",
+            "incorrect_answers": [
+                "Sebastian Vettel",
+                "Nico Rosberg",
+                "Max Verstappen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Quem ganhou a Liga dos Campeões da UEFA em 2016?",
+            "correct_answer": "Real Madrid C.F.",
+            "incorrect_answers": [
+                "FC Bayern Munich",
+                "Atletico Madrid",
+                "Manchester City F.C."
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Na Copa do Mundo FIFA 2014, qual foi o placar final da partida Brasil x Alemanha?",
+            "correct_answer": "1-7",
+            "incorrect_answers": [
+                "1-5",
+                "1-6",
+                "2-6"
+            ]
+        }
+    ]
+}
