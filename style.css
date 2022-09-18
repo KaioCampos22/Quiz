@@ -8,7 +8,7 @@
 
 
 :root {
-    --yellow: rgb(240, 255, 101);
+    --primary-color: rgb(36, 0, 237);
     --black: rgb(0, 0, 0);
 }
 
@@ -30,7 +30,7 @@ h4 {
 
 h1 {
     font-size: 5.4rem;
-    color: var(--yellow);
+    color: var(--primary-color);
 }
 
 h1>span {
@@ -97,16 +97,16 @@ h3 {
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid var(--yellow);
+    border: 0.1rem solid var(--primary-color);
     margin-bottom: 1rem;
     text-decoration: none;
-    color: var(--yellow);
+    color: var(--primary-color);
     background-color: rgb(0, 0, 0);
 }
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(240, 255, 101, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 var(--primary-color);
     transform: translateX(-0.1rem);
     transition: transform 150ms
 }
@@ -133,7 +133,7 @@ input {
     padding: 1.5rem;
     font-size: 1.8rem;
     border: none;
-    box-shadow: 0 0.1rem 1.4rem 0 rgba(240, 255, 101, 0.5);
+    box-shadow: 0 0.1rem 1.4rem 0 var(--primary-color)
 }
 
 #username {
